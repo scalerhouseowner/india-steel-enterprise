@@ -46,9 +46,9 @@ const ProductCard: React.FC<ProductCardProps> = ({ product }) => {
         <div className="flex items-center justify-between mt-auto pt-4 border-t border-border">
           <Link 
             href={`/products/${product.slug}`} 
-            className="text-body-dark font-semibold text-sm group-hover:text-accent transition-colors"
+            className="bg-primary hover:bg-primary-light text-white font-medium text-xs px-4 py-2 rounded shadow-sm transition-colors"
           >
-            View Details →
+            View Details
           </Link>
           <a 
             href={`https://wa.me/918071793169?text=${encodeURIComponent(product.whatsappMessage)}`}

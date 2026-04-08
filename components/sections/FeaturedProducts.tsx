@@ -14,8 +14,8 @@ const FeaturedProducts = () => {
             <h2 className="font-heading text-2xl md:text-3xl font-bold text-primary mb-2">Most Popular Products</h2>
             <p className="text-body-muted text-sm sm:text-base">Our best-selling display and storage solutions.</p>
           </div>
-          <a href="/products" className="hidden sm:inline-flex items-center text-accent font-semibold hover:text-accent-hover transition-colors">
-            View All Products →
+          <a href="/products" className="hidden sm:inline-flex items-center bg-accent hover:bg-yellow-400 text-primary-dark font-semibold text-sm px-5 py-2.5 rounded shadow-sm transition-colors">
+            View All Products
           </a>
         </div>
         
@@ -26,8 +26,8 @@ const FeaturedProducts = () => {
         </div>
         
         <div className="mt-8 text-center sm:hidden">
-          <a href="/products" className="inline-flex items-center text-accent font-semibold hover:text-accent-hover transition-colors">
-            View All Products →
+          <a href="/products" className="inline-flex items-center bg-accent hover:bg-yellow-400 text-primary-dark font-semibold text-sm px-5 py-2.5 rounded shadow-sm transition-colors">
+            View All Products
           </a>
         </div>
       </div>

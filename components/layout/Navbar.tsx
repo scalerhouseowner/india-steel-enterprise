@@ -37,8 +37,8 @@ const Navbar = () => {
         <div className="flex justify-between items-center h-16 lg:h-20">
           <div className="flex-shrink-0 flex items-center">
             <Link href="/" className="font-heading font-extrabold text-xl md:text-2xl flex items-center gap-3">
-              <Image src="/logo.jpg" alt="India Steel Enterprises" width={48} height={48} className="rounded-sm bg-white p-1" />
-              <span className={`tracking-tight ${isHomepage && !isScrolled ? 'text-white' : 'text-primary'}`}>India Steel Enterprises</span>
+              <Image src="/logo.jpg" alt="India Steel Enterprise" width={48} height={48} className="rounded-sm bg-white p-1" />
+              <span className={`tracking-tight ${isHomepage && !isScrolled ? 'text-white' : 'text-primary'}`}>India Steel Enterprise</span>
             </Link>
           </div>
 

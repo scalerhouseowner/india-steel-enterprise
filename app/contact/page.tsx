@@ -5,7 +5,7 @@ import Breadcrumb from "@/components/ui/Breadcrumb";
 
 export const metadata: Metadata = {
   title: "Contact Us",
-  description: "Contact India Steel Enterprises in Kanpur, UP. Call 08071793169 or WhatsApp us for inquiries on display racks and supermarket furniture.",
+  description: "Contact India Steel Enterprise in Kanpur, UP. Call 08071793169 or WhatsApp us for inquiries on display racks and supermarket furniture.",
 };
 
 export default function ContactPage() {
@@ -33,7 +33,7 @@ export default function ContactPage() {
                 <div className="flex items-start gap-4">
                   <Building className="text-accent mt-1 shrink-0" size={24} />
                   <div>
-                    <h3 className="font-semibold text-body-dark">India Steel Enterprises</h3>
+                    <h3 className="font-semibold text-body-dark">India Steel Enterprise</h3>
                     <p className="text-body-muted text-sm">Proprietor: Mr. Gaurav Dwivedi</p>
                     <p className="text-body-muted text-sm mt-1">GST: 09DVUPD7629J1ZS</p>
                   </div>
@@ -93,7 +93,7 @@ export default function ContactPage() {
                 allowFullScreen={false} 
                 loading="lazy" 
                 referrerPolicy="no-referrer-when-downgrade"
-                title="India Steel Enterprises Location"
+                title="India Steel Enterprise Location"
               ></iframe>
             </div>
 

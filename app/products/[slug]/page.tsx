@@ -16,7 +16,7 @@ export async function generateMetadata({ params }: { params: { slug: string } })
     title: product.seo.title,
     description: product.seo.description,
     openGraph: {
-      title: `${product.name} | India Steel Enterprises`,
+      title: `${product.name} | India Steel Enterprise`,
       description: product.seo.description,
       images: [product.image],
       type: "website",
@@ -186,7 +186,7 @@ export default function ProductDetailPage({ params }: { params: { slug: string }
             "image": `https://yourwebsite.com${product.image}`, // Update with actual domain
             "brand": {
               "@type": "Brand",
-              "name": "India Steel Enterprises"
+              "name": "India Steel Enterprise"
             },
             "offers": {
               "@type": "Offer",
@@ -195,7 +195,7 @@ export default function ProductDetailPage({ params }: { params: { slug: string }
               "availability": "https://schema.org/InStock",
               "seller": {
                 "@type": "Organization",
-                "name": "India Steel Enterprises"
+                "name": "India Steel Enterprise"
               }
             }
           })

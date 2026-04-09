@@ -7,7 +7,7 @@ import Breadcrumb from "@/components/ui/Breadcrumb";
 
 export const metadata: Metadata = {
   title: "About Us",
-  description: "Learn about India Steel Enterprises, a trusted manufacturer and supplier of display racks and supermarket furniture based in Kanpur, UP.",
+  description: "Learn about India Steel Enterprise, a trusted manufacturer and supplier of display racks and supermarket furniture based in Kanpur, UP.",
 };
 
 export default function AboutPage() {
@@ -17,7 +17,7 @@ export default function AboutPage() {
       <section className="bg-primary text-white py-16 lg:py-24">
         <div className="w-full max-w-[1920px] mx-auto px-6 sm:px-12 lg:px-24 text-center pt-8">
           <Breadcrumb items={[{ label: "About Us" }]} />
-          <h1 className="font-heading text-3xl md:text-4xl font-bold mb-4 text-white">About India Steel Enterprises</h1>
+          <h1 className="font-heading text-3xl md:text-4xl font-bold mb-4 text-white">About India Steel Enterprise</h1>
           <p className="text-lg text-gray-300 max-w-2xl mx-auto">
             Your trusted manufacturing partner for display racks and storage solutions for over a decade.
           </p>
@@ -32,7 +32,7 @@ export default function AboutPage() {
               <h2 className="font-heading text-2xl md:text-3xl font-bold mb-6 text-primary">Our Story</h2>
               <div className="space-y-4 text-body-muted text-base leading-relaxed">
                 <p>
-                  Founded by <strong>Mr. Gaurav Dwivedi</strong>, India Steel Enterprises has grown into a leading name in the manufacturing of retail display and industrial storage solutions. Based in Panki, Kanpur, Uttar Pradesh, our state-of-the-art facility builds products tailored to the demanding needs of modern retail.
+                  Founded by <strong>Mr. Gaurav Dwivedi</strong>, India Steel Enterprise has grown into a leading name in the manufacturing of retail display and industrial storage solutions. Based in Panki, Kanpur, Uttar Pradesh, our state-of-the-art facility builds products tailored to the demanding needs of modern retail.
                 </p>
                 <p>
                   We proudly manufacture a wide range of display racks, supermarket furniture, and heavy-duty storage shelving. As a GST-registered business (GST: 09DVUPD7629J1ZS), we maintain strict compliance and quality standards.
@@ -46,7 +46,7 @@ export default function AboutPage() {
               {/* Using a placeholder from available images that looks like an overview */}
               <Image 
                 src="/images/Display-Storage-Rack..jpg" 
-                alt="India Steel Enterprises Manufacturing Facility" 
+                alt="India Steel Enterprise Manufacturing Facility" 
                 fill
                 className="object-cover"
               />

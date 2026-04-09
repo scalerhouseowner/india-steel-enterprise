@@ -18,9 +18,9 @@ export default function Home() {
         <div className="w-full max-w-[1920px] mx-auto px-6 sm:px-12 lg:px-24">
           <div className="flex flex-col lg:flex-row items-center gap-12">
             <div className="lg:w-1/2">
-              <h2 className="font-heading text-2xl md:text-3xl font-bold mb-6 text-white">About India Steel Enterprises</h2>
+              <h2 className="font-heading text-2xl md:text-3xl font-bold mb-6 text-white">About India Steel Enterprise</h2>
               <p className="text-gray-300 text-base mb-8 leading-relaxed">
-                Founded by Mr. Gaurav Dwivedi, India Steel Enterprises is a leading manufacturer of premium display racks, supermarket furniture, and industrial storage solutions based in Kanpur, Uttar Pradesh. Operating out of our dedicated facility, we serve retailers and businesses across India.
+                Founded by Mr. Gaurav Dwivedi, India Steel Enterprise is a leading manufacturer of premium display racks, supermarket furniture, and industrial storage solutions based in Kanpur, Uttar Pradesh. Operating out of our dedicated facility, we serve retailers and businesses across India.
               </p>
               <a href="/about" className="inline-flex items-center text-accent font-semibold hover:text-white transition-colors">
                 Learn More About Us →

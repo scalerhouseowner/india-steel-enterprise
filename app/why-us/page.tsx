@@ -6,7 +6,7 @@ import Breadcrumb from "@/components/ui/Breadcrumb";
 
 export const metadata: Metadata = {
   title: "Why Choose Us",
-  description: "5 reasons why retailers across India trust India Steel Enterprises for their display racks and retail furniture.",
+  description: "5 reasons why retailers across India trust India Steel Enterprise for their display racks and retail furniture.",
 };
 
 export default function WhyUsPage() {
@@ -48,7 +48,7 @@ export default function WhyUsPage() {
       <section className="bg-primary text-white py-16 lg:py-24">
         <div className="w-full max-w-[1920px] mx-auto px-6 sm:px-12 lg:px-24 text-center pt-8">
           <Breadcrumb items={[{ label: "Why Choose Us" }]} />
-          <h1 className="font-heading text-3xl md:text-4xl font-bold mb-4 text-white">Why Buy From India Steel Enterprises?</h1>
+          <h1 className="font-heading text-3xl md:text-4xl font-bold mb-4 text-white">Why Buy From India Steel Enterprise?</h1>
           <p className="text-lg text-gray-300 max-w-2xl mx-auto">
             5 reasons retailers across India trust us as their primary racking supplier.
           </p>

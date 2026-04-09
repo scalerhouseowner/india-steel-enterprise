@@ -30,7 +30,7 @@ export const products: Product[] = [
     ],
     relatedProducts: ["retail-showroom-shop-display-rack", "mild-steel-vegetable-display-rack"],
     seo: {
-      title: "MS Shoes Display Rack Manufacturer in Kanpur | 250 Kg Capacity | India Steel Enterprises",
+      title: "MS Shoes Display Rack Manufacturer in Kanpur | 250 Kg Capacity | India Steel Enterprise",
       description: "Buy durable MS Shoes Display Rack from Kanpur manufacturer. 6 ft height, 250 kg capacity, powder coated mild steel. Direct factory price ₹4,850. Call 08071793169.",
       focusKeyword: "MS shoes display rack manufacturer Kanpur"
     },
@@ -63,7 +63,7 @@ export const products: Product[] = [
     ],
     relatedProducts: ["ms-shoes-display-rack", "garment-display-rack"],
     seo: {
-      title: "Retail Showroom Shop Display Rack 7ft | Single Sided MS Rack | India Steel Enterprises Kanpur",
+      title: "Retail Showroom Shop Display Rack 7ft | Single Sided MS Rack | India Steel Enterprise Kanpur",
       description: "7-foot single sided retail showroom display rack made from powder coated mild steel. Ideal for shops & supermarkets. Factory price ₹5,500. Manufacturer in Kanpur. Call now.",
       focusKeyword: "retail showroom display rack Kanpur"
     },
@@ -96,7 +96,7 @@ export const products: Product[] = [
     ],
     relatedProducts: ["garment-display-rack"],
     seo: {
-      title: "Garment Display Wooden Rack Manufacturer Kanpur | ₹2,950/sq.ft | India Steel Enterprises",
+      title: "Garment Display Wooden Rack Manufacturer Kanpur | ₹2,950/sq.ft | India Steel Enterprise",
       description: "Custom garment display wooden rack at ₹2,950 per sq.ft. Minimum 10 sq.ft order. Powder coated finish, ideal for clothing stores & boutiques. Manufacturer in Kanpur, UP.",
       focusKeyword: "garment display wooden rack manufacturer"
     },
@@ -128,7 +128,7 @@ export const products: Product[] = [
     ],
     relatedProducts: ["vegetable-wall-display-rack"],
     seo: {
-      title: "Mild Steel Vegetable Display Rack Kanpur | Supermarket Veggie Rack | India Steel Enterprises",
+      title: "Mild Steel Vegetable Display Rack Kanpur | Supermarket Veggie Rack | India Steel Enterprise",
       description: "Rust-resistant mild steel vegetable display rack for supermarkets & kirana stores. Powder coated finish. Factory price ₹8,500/piece. Manufacturer Kanpur. Inquiry: 08071793169",
       focusKeyword: "vegetable display rack manufacturer Kanpur"
     },
@@ -161,7 +161,7 @@ export const products: Product[] = [
     ],
     relatedProducts: ["garment-display-wooden-rack"],
     seo: {
-      title: "Garment Display Rack Manufacturer Kanpur | MS Powder Coated | India Steel Enterprises",
+      title: "Garment Display Rack Manufacturer Kanpur | MS Powder Coated | India Steel Enterprise",
       description: "Steel garment display rack at ₹2,950/sq.ft. Powder coated MS construction. Ideal for clothing stores & supermarket apparel sections. Min 10 sq.ft. Direct manufacturer Kanpur.",
       focusKeyword: "garment display rack manufacturer Kanpur"
     },
@@ -193,7 +193,7 @@ export const products: Product[] = [
     ],
     relatedProducts: ["supermarket-grocery-display-rack"],
     seo: {
-      title: "Iron Supermarket Storage Shelving Rack | Heavy Duty Retail Shelf | India Steel Enterprises Kanpur",
+      title: "Iron Supermarket Storage Shelving Rack | Heavy Duty Retail Shelf | India Steel Enterprise Kanpur",
       description: "Heavy duty iron supermarket storage shelving rack from Kanpur manufacturer. Powder coated, built for high-traffic retail stores. Get custom quote. Call 08071793169.",
       focusKeyword: "supermarket storage shelving rack manufacturer"
     },
@@ -224,7 +224,7 @@ export const products: Product[] = [
     ],
     relatedProducts: ["iron-supermarket-storage-shelving-rack", "end-unit-display-rack"],
     seo: {
-      title: "Supermarket Grocery Display Rack Manufacturer Kanpur | India Steel Enterprises",
+      title: "Supermarket Grocery Display Rack Manufacturer Kanpur | India Steel Enterprise",
       description: "Purpose-built supermarket grocery display rack. MS powder coated construction. Best for FMCG, packaged foods, beverages. Direct manufacturer Kanpur. Inquiry: 08071793169.",
       focusKeyword: "supermarket grocery display rack"
     },
@@ -247,7 +247,7 @@ export const products: Product[] = [
       "Usage": "Aisle End / Gondola End"
     },
     shortDescription: "High-visibility end-of-aisle display unit.",
-    description: "Capitalize on high-traffic choke points in your store with our End Unit Display Rack. Exclusively designed for aisle ends, this standalone unit requires no wall support and acts as a powerful driver for impulse purchases. It is a standard operational necessity in modern supermarkets, perfectly capping off gondola runs. Crafted from robust mild steel with a sleek powder-coated finish, it safely holds promotional and high-margin goods. Purchase directly from India Steel Enterprises in Kanpur to enhance your store's merchandising strategy.",
+    description: "Capitalize on high-traffic choke points in your store with our End Unit Display Rack. Exclusively designed for aisle ends, this standalone unit requires no wall support and acts as a powerful driver for impulse purchases. It is a standard operational necessity in modern supermarkets, perfectly capping off gondola runs. Crafted from robust mild steel with a sleek powder-coated finish, it safely holds promotional and high-margin goods. Purchase directly from India Steel Enterprise in Kanpur to enhance your store's merchandising strategy.",
     useCases: ["Supermarkets", "Pharmacy chains", "FMCG outlets", "Retail end caps"],
     keyFeatures: ["Drives impulse buying", "Standalone unit construction", "High-visibility placement", "Durable MS build"],
     faqs: [
@@ -255,7 +255,7 @@ export const products: Product[] = [
     ],
     relatedProducts: ["supermarket-grocery-display-rack"],
     seo: {
-      title: "End Unit Display Rack Manufacturer | Gondola End Rack Kanpur | India Steel Enterprises",
+      title: "End Unit Display Rack Manufacturer | Gondola End Rack Kanpur | India Steel Enterprise",
       description: "End unit display rack for aisle ends in supermarkets & retail stores. Boost impulse purchases. Mild steel, powder coated. Kanpur manufacturer. Get quote: 08071793169.",
       focusKeyword: "end unit display rack"
     },
@@ -319,7 +319,7 @@ export const products: Product[] = [
     ],
     relatedProducts: ["wall-side-display-rack"],
     seo: {
-      title: "MS Wall Mounted Retail Display Rack Kanpur | India Steel Enterprises",
+      title: "MS Wall Mounted Retail Display Rack Kanpur | India Steel Enterprise",
       description: "Mild steel wall mounted retail display rack. Space-saving design for shops. Powder coated, durable. Direct from manufacturer in Kanpur. Call for custom sizes: 08071793169.",
       focusKeyword: "wall mounted retail display rack"
     },
@@ -351,7 +351,7 @@ export const products: Product[] = [
     ],
     relatedProducts: ["25l-pp-supermarket-shopping-basket", "20l-pp-supermarket-shopping-basket"],
     seo: {
-      title: "30L PP Supermarket Shopping Basket Supplier Kanpur | India Steel Enterprises",
+      title: "30L PP Supermarket Shopping Basket Supplier Kanpur | India Steel Enterprise",
       description: "Durable 30-litre PP supermarket shopping basket. Lightweight, strong handles, stackable. Ideal for grocery stores & supermarkets. Supplier Kanpur. Call 08071793169.",
       focusKeyword: "30L supermarket shopping basket"
     },
@@ -383,7 +383,7 @@ export const products: Product[] = [
     ],
     relatedProducts: ["ms-slotted-angle-rack"],
     seo: {
-      title: "6 Feet Slotted Angle Rack Manufacturer Kanpur | MS Storage Rack | India Steel Enterprises",
+      title: "6 Feet Slotted Angle Rack Manufacturer Kanpur | MS Storage Rack | India Steel Enterprise",
       description: "6-foot slotted angle rack for warehouse, office & retail storage. Mild steel, easy bolt-together assembly. Adjustable shelves. Manufacturer Kanpur. Call 08071793169.",
       focusKeyword: "6 feet slotted angle rack Kanpur"
     },
@@ -415,7 +415,7 @@ export const products: Product[] = [
     ],
     relatedProducts: ["l-shape-ms-supermarket-cash-counter"],
     seo: {
-      title: "L Shape MS Cash Counter Manufacturer Kanpur | Retail Billing Counter | India Steel Enterprises",
+      title: "L Shape MS Cash Counter Manufacturer Kanpur | Retail Billing Counter | India Steel Enterprise",
       description: "L-shape mild steel cash counter for shops & retail outlets. Powder coated finish, built for daily heavy use. Direct manufacturer Kanpur. Custom sizes available. Call 08071793169.",
       focusKeyword: "L shape MS cash counter Kanpur"
     },
@@ -447,7 +447,7 @@ export const products: Product[] = [
     ],
     relatedProducts: ["l-shape-ms-cash-counter"],
     seo: {
-      title: "Medical Store Display Counter Manufacturer Kanpur | Pharmacy Counter | India Steel Enterprises",
+      title: "Medical Store Display Counter Manufacturer Kanpur | Pharmacy Counter | India Steel Enterprise",
       description: "Specially designed display counter for medical stores & pharmacies. Organized medicine display, clean aesthetic. MS powder coated. Kanpur manufacturer. Call 08071793169.",
       focusKeyword: "medical store display counter manufacturer"
     },
@@ -479,7 +479,7 @@ export const products: Product[] = [
     ],
     relatedProducts: ["glossy-plastic-female-mannequin-set"],
     seo: {
-      title: "Standing Glossy Plastic Mannequin Set Supplier Kanpur | India Steel Enterprises",
+      title: "Standing Glossy Plastic Mannequin Set Supplier Kanpur | India Steel Enterprise",
       description: "Full-body standing glossy plastic mannequin set for garment displays. High-gloss finish, realistic pose. Ideal for clothing stores & boutiques. Supplier Kanpur. Inquiry: 08071793169.",
       focusKeyword: "standing plastic mannequin set supplier"
     },

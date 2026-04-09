@@ -13,8 +13,8 @@ const Footer = () => {
           {/* Column 1: Brand Info */}
           <div className="pr-4">
             <div className="flex items-center gap-2 mb-6">
-              <Image src="/logo.jpg" alt="India Steel Enterprises" width={48} height={48} className="rounded-sm bg-white p-1" />
-              <span className="font-heading font-extrabold text-xl">India Steel Enterprises</span>
+              <Image src="/logo.jpg" alt="India Steel Enterprise" width={48} height={48} className="rounded-sm bg-white p-1" />
+              <span className="font-heading font-extrabold text-xl">India Steel Enterprise</span>
             </div>
             <p className="text-gray-300 text-sm mb-6 leading-relaxed">
               Manufacturer & Supplier of Display Racks, Supermarket Furniture, and Storage Solutions in Kanpur, UP.
@@ -104,7 +104,7 @@ const Footer = () => {
 
         <div className="border-t border-primary-light mt-16 pt-8 flex flex-col md:flex-row justify-between items-center text-sm text-gray-400 gap-4">
           <p className="text-center md:text-left">
-            © {new Date().getFullYear()} India Steel Enterprises | All Rights Reserved. <br className="md:hidden" />
+            © {new Date().getFullYear()} India Steel Enterprise | All Rights Reserved. <br className="md:hidden" />
             <span className="hidden md:inline"> | </span> 
             Made with Love By <a href="https://scalerhouse.com/" target="_blank" rel="noopener noreferrer" className="text-gray-300 hover:text-accent transition-colors font-medium">ScalerHouse</a>
           </p>

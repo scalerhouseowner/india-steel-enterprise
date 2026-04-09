@@ -15,8 +15,8 @@ const poppins = Poppins({
 
 export const metadata: Metadata = {
   title: {
-    template: "%s | India Steel Enterprises",
-    default: "India Steel Enterprises | Display Racks Manufacturer Kanpur",
+    template: "%s | India Steel Enterprise",
+    default: "India Steel Enterprise | Display Racks Manufacturer Kanpur",
   },
   description: "Manufacturer and supplier of display racks, supermarket display racks, and storage solutions in Kanpur, Uttar Pradesh.",
 };

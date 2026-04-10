@@ -1,6 +1,7 @@
 import React from "react";
 import HeroSection from "@/components/sections/HeroSection";
 import ProductGrid from "@/components/sections/ProductGrid";
+import FeaturedInSection from "@/components/sections/FeaturedInSection";
 import WhyUsSection from "@/components/sections/WhyUsSection";
 import FeaturedProducts from "@/components/sections/FeaturedProducts";
 import CTABanner from "@/components/ui/CTABanner";
@@ -10,6 +11,7 @@ export default function Home() {
     <>
       <HeroSection />
       <ProductGrid />
+      <FeaturedInSection />
       <WhyUsSection />
       <FeaturedProducts />
       

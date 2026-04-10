@@ -21,22 +21,19 @@ const FeaturedInSection = () => {
         <div className="w-24 h-1 bg-accent mx-auto mt-4 rounded-full"></div>
       </div>
 
-      <div className="flex overflow-hidden w-full group py-4 h-[120px] bg-white relative">
+      <div className="flex overflow-hidden w-full group py-8 h-[140px] bg-white relative">
         {/* We use two containers animating to create a seamless loop */}
         <div className="flex flex-shrink-0 animate-marquee items-center">
           {newsLogos.map((logo, index) => (
             <div
               key={`logo-1-${index}`}
-              className="mx-8 sm:mx-12 md:mx-16 flex items-center justify-center grayscale hover:grayscale-0 transition-all duration-300 transform hover:scale-110"
+              className="mx-10 sm:mx-14 md:mx-20 flex items-center justify-center grayscale hover:grayscale-0 transition-all duration-300 transform hover:scale-110"
             >
-              <div className="relative w-[150px] sm:w-[180px] h-[60px] sm:h-[80px]">
-                <Image
-                  src={logo.src}
-                  alt={logo.name}
-                  fill
-                  className="object-contain"
-                />
-              </div>
+              <img
+                src={logo.src}
+                alt={logo.name}
+                className="h-12 sm:h-14 md:h-16 w-auto object-contain max-w-[200px]"
+              />
             </div>
           ))}
         </div>
@@ -45,16 +42,13 @@ const FeaturedInSection = () => {
           {newsLogos.map((logo, index) => (
             <div
               key={`logo-2-${index}`}
-              className="mx-8 sm:mx-12 md:mx-16 flex items-center justify-center grayscale hover:grayscale-0 transition-all duration-300 transform hover:scale-110"
+              className="mx-10 sm:mx-14 md:mx-20 flex items-center justify-center grayscale hover:grayscale-0 transition-all duration-300 transform hover:scale-110"
             >
-              <div className="relative w-[150px] sm:w-[180px] h-[60px] sm:h-[80px]">
-                <Image
-                  src={logo.src}
-                  alt={logo.name}
-                  fill
-                  className="object-contain"
-                />
-              </div>
+              <img
+                src={logo.src}
+                alt={logo.name}
+                className="h-12 sm:h-14 md:h-16 w-auto object-contain max-w-[200px]"
+              />
             </div>
           ))}
         </div>

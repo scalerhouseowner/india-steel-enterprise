@@ -26,12 +26,12 @@ const FeaturedInSection = () => {
           {newsLogos.map((logo, index) => (
             <div
               key={`logo-1-${index}`}
-              className="mx-10 sm:mx-14 md:mx-20 flex items-center justify-center grayscale hover:grayscale-0 transition-all duration-300 transform hover:scale-110"
+              className="mx-6 sm:mx-10 md:mx-14 flex items-center justify-center grayscale hover:grayscale-0 transition-all duration-300 transform hover:scale-110 w-[120px] h-[60px] sm:w-[140px] sm:h-[70px] md:w-[160px] md:h-[80px]"
             >
               <img
                 src={logo.src}
                 alt={logo.name}
-                className="h-12 sm:h-14 md:h-16 w-auto object-contain max-w-[200px]"
+                className="w-full h-full object-contain"
               />
             </div>
           ))}
@@ -41,12 +41,12 @@ const FeaturedInSection = () => {
           {newsLogos.map((logo, index) => (
             <div
               key={`logo-2-${index}`}
-              className="mx-10 sm:mx-14 md:mx-20 flex items-center justify-center grayscale hover:grayscale-0 transition-all duration-300 transform hover:scale-110"
+              className="mx-6 sm:mx-10 md:mx-14 flex items-center justify-center grayscale hover:grayscale-0 transition-all duration-300 transform hover:scale-110 w-[120px] h-[60px] sm:w-[140px] sm:h-[70px] md:w-[160px] md:h-[80px]"
             >
               <img
                 src={logo.src}
                 alt={logo.name}
-                className="h-12 sm:h-14 md:h-16 w-auto object-contain max-w-[200px]"
+                className="w-full h-full object-contain"
               />
             </div>
           ))}

@@ -1,5 +1,4 @@
 import React from "react";
-import Image from "next/image";
 
 const newsLogos = [
   { name: "99 News", src: "/news/99news.png" },

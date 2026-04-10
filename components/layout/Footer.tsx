@@ -60,22 +60,22 @@ const Footer = () => {
           <div>
             <h3 className="font-heading font-bold text-lg mb-4 text-white h-[48px] flex items-end pb-1">Contact Us</h3>
             <div className="space-y-4">
-              <a href="tel:08071793169" className="flex items-center gap-4 text-gray-300 hover:text-accent transition-colors">
+              <a href="tel:+919935099014" className="flex items-center gap-4 text-gray-300 hover:text-accent transition-colors">
                 <div className="bg-primary-light p-3 rounded-full">
                   <Phone size={20} />
                 </div>
                 <div>
                   <div className="text-sm text-gray-400">Call Us Now</div>
-                  <div className="font-semibold text-base px-1">08071793169</div>
+                  <div className="font-semibold text-base px-1">+919935099014, +919565666055</div>
                 </div>
               </a>
-              <a href="https://wa.me/918071793169?text=Hi%2C%20I%20want%20to%20know%20more%20about%20your%20products" target="_blank" rel="noopener noreferrer" className="flex items-center gap-4 text-gray-300 hover:text-success transition-colors">
+              <a href="https://wa.me/919565666055?text=Hi%2C%20I%20want%20to%20know%20more%20about%20your%20products" target="_blank" rel="noopener noreferrer" className="flex items-center gap-4 text-gray-300 hover:text-success transition-colors">
                 <div className="bg-primary-light p-3 rounded-full text-success">
                   <MessageCircle size={20} />
                 </div>
                 <div>
                   <div className="text-sm text-gray-400">Chat on WhatsApp</div>
-                  <div className="font-semibold text-base px-1">08071793169</div>
+                  <div className="font-semibold text-base px-1">+919565666055, +919935099014</div>
                 </div>
               </a>
               <a href="https://maps.google.com/?q=India+Steel+Enterprises+Kanpur" target="_blank" rel="noopener noreferrer" className="inline-block mt-4 text-sm border border-gray-600 px-4 py-2 rounded-md hover:border-accent hover:text-accent transition-colors">

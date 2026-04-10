@@ -87,7 +87,7 @@ export default function ProductDetailPage({ params }: { params: { slug: string }
               {/* CTAs */}
               <div className="space-y-3 mb-6">
                 <a 
-                  href={`https://wa.me/918071793169?text=${encodeURIComponent(product.whatsappMessage)}`}
+                  href={`https://wa.me/919565666055?text=${encodeURIComponent(product.whatsappMessage)}`}
                   target="_blank"
                   rel="noopener noreferrer" 
                   className="btn-bounce w-full bg-success hover:bg-green-600 text-white py-3 rounded-md font-semibold text-base flex items-center justify-center gap-3 transition-colors shadow-sm"
@@ -95,10 +95,10 @@ export default function ProductDetailPage({ params }: { params: { slug: string }
                   <MessageCircle size={20} /> WhatsApp Inquiry
                 </a>
                 <a 
-                  href="tel:08071793169" 
+                  href="tel:+919935099014" 
                   className="btn-bounce w-full border-2 border-accent text-accent hover:bg-accent hover:text-white py-2.5 rounded-md font-semibold text-base flex items-center justify-center gap-3 transition-colors"
                 >
-                  <Phone size={18} /> Call Now: 08071793169
+                  <Phone size={18} /> Call Now: +919935099014
                 </a>
                 <p className="text-center text-xs text-body-muted mt-1">Response within 2 hours &bull; Domestic inquiries only</p>
               </div>

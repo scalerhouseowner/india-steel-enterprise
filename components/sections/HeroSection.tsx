@@ -29,13 +29,13 @@ const HeroSection = () => {
         
         <div className="flex flex-col sm:flex-row items-center justify-center gap-6 mb-16">
           <a 
-            href="tel:08071793169" 
+            href="tel:+919935099014" 
             className="btn-bounce bg-accent hover:bg-accent-hover text-white w-full sm:w-auto px-8 py-3.5 rounded-md font-semibold text-lg flex items-center justify-center gap-2"
           >
-            <Phone size={20} /> Call Now — 08071793169
+            <Phone size={20} /> Call Now — +919935099014
           </a>
           <a 
-            href="https://wa.me/918071793169?text=Hi%2C%20I%20want%20to%20know%20more%20about%20your%20products"
+            href="https://wa.me/919565666055?text=Hi%2C%20I%20want%20to%20know%20more%20about%20your%20products"
             target="_blank"
             rel="noopener noreferrer" 
             className="btn-bounce border-2 border-white/30 hover:border-white text-white w-full sm:w-auto px-8 py-3.5 rounded-md font-semibold text-lg flex items-center justify-center gap-2 transition-colors"

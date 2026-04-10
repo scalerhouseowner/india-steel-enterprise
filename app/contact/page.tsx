@@ -5,7 +5,7 @@ import Breadcrumb from "@/components/ui/Breadcrumb";
 
 export const metadata: Metadata = {
   title: "Contact Us",
-  description: "Contact India Steel Enterprise in Kanpur, UP. Call 08071793169 or WhatsApp us for inquiries on display racks and supermarket furniture.",
+  description: "Contact India Steel Enterprise in Kanpur, UP. Call +919935099014 or WhatsApp us for inquiries on display racks and supermarket furniture.",
 };
 
 export default function ContactPage() {
@@ -62,7 +62,7 @@ export default function ContactPage() {
 
               <div className="space-y-4">
                 <a 
-                  href="https://wa.me/918071793169?text=Hi%2C%20I%20want%20to%20know%20more%20about%20your%20products"
+                  href="https://wa.me/919565666055?text=Hi%2C%20I%20want%20to%20know%20more%20about%20your%20products"
                   target="_blank"
                   rel="noopener noreferrer" 
                   className="btn-bounce w-full bg-success text-white py-4 rounded-md font-semibold text-lg flex items-center justify-center gap-3 transition-colors shadow-sm hover:shadow-md"
@@ -70,10 +70,10 @@ export default function ContactPage() {
                   <MessageCircle size={24} /> Chat on WhatsApp Now
                 </a>
                 <a 
-                  href="tel:08071793169" 
+                  href="tel:+919935099014" 
                   className="btn-bounce w-full bg-primary text-white py-4 rounded-md font-semibold text-lg flex items-center justify-center gap-3 transition-colors shadow-sm hover:shadow-md"
                 >
-                  <Phone size={24} /> Call 08071793169
+                  <Phone size={24} /> Call +919935099014
                 </a>
               </div>
               

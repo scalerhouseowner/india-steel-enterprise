@@ -51,7 +51,7 @@ const ProductCard: React.FC<ProductCardProps> = ({ product }) => {
             View Details
           </Link>
           <a 
-            href={`https://wa.me/918071793169?text=${encodeURIComponent(product.whatsappMessage)}`}
+            href={`https://wa.me/919565666055?text=${encodeURIComponent(product.whatsappMessage)}`}
             target="_blank"
             rel="noopener noreferrer"
             className="w-8 h-8 rounded-full bg-success/10 text-success flex items-center justify-center hover:bg-success hover:text-white transition-colors"

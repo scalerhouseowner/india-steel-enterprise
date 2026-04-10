@@ -56,7 +56,7 @@ export default function GalleryPage() {
         <div className="max-w-4xl mx-auto text-center">
           <h2 className="font-heading text-3xl font-bold mb-6 text-primary">Want a similar setup for your store?</h2>
           <a 
-            href="https://wa.me/918071793169?text=Hi%2C%20I%20saw%20your%20gallery%20and%20want%20to%20discuss%20my%20store%20setup."
+            href="https://wa.me/919565666055?text=Hi%2C%20I%20saw%20your%20gallery%20and%20want%20to%20discuss%20my%20store%20setup."
             target="_blank"
             rel="noopener noreferrer" 
             className="btn-bounce inline-flex bg-success text-white px-8 py-4 rounded-md font-semibold text-lg items-center justify-center gap-3 transition-colors shadow-md hover:bg-green-600"

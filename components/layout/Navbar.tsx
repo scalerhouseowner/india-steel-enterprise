@@ -85,10 +85,10 @@ const Navbar = () => {
           </div>
 
           <div className="hidden lg:flex items-center space-x-4">
-            <a href="tel:08071793169" className="btn-bounce bg-primary hover:bg-primary-light text-white px-4 py-2 rounded-md font-bold text-sm flex items-center gap-2">
+            <a href="tel:+919935099014" className="btn-bounce bg-primary hover:bg-primary-light text-white px-4 py-2 rounded-md font-bold text-sm flex items-center gap-2">
               <Phone size={16} /> Call Now
             </a>
-            <a href="https://wa.me/918071793169?text=Hi%2C%20I%20want%20to%20know%20more%20about%20your%20products" target="_blank" rel="noopener noreferrer" className="btn-bounce border-2 border-success text-success hover:bg-success hover:text-white px-4 py-2 rounded-md font-bold text-sm flex items-center gap-2 transition-colors">
+            <a href="https://wa.me/919565666055?text=Hi%2C%20I%20want%20to%20know%20more%20about%20your%20products" target="_blank" rel="noopener noreferrer" className="btn-bounce border-2 border-success text-success hover:bg-success hover:text-white px-4 py-2 rounded-md font-bold text-sm flex items-center gap-2 transition-colors">
               <MessageCircle size={16} /> WhatsApp
             </a>
           </div>

@@ -10,13 +10,13 @@ const CTABanner = () => {
         
         <div className="flex flex-col sm:flex-row items-center justify-center gap-4">
           <a 
-            href="tel:08071793169" 
+            href="tel:+919935099014" 
             className="btn-bounce bg-white text-accent w-full sm:w-auto px-6 py-2.5 rounded-md font-semibold text-base flex items-center justify-center gap-2"
           >
-            <Phone size={18} /> Call 08071793169
+            <Phone size={18} /> Call +919935099014
           </a>
           <a 
-            href="https://wa.me/918071793169?text=Hi%2C%20I%20want%20to%20know%20more%20about%20your%20products"
+            href="https://wa.me/919565666055?text=Hi%2C%20I%20want%20to%20know%20more%20about%20your%20products"
             target="_blank"
             rel="noopener noreferrer" 
             className="btn-bounce bg-success text-white w-full sm:w-auto px-6 py-2.5 rounded-md font-semibold text-base flex items-center justify-center gap-2"

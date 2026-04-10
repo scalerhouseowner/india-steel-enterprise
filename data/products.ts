@@ -31,7 +31,7 @@ export const products: Product[] = [
     relatedProducts: ["retail-showroom-shop-display-rack", "mild-steel-vegetable-display-rack"],
     seo: {
       title: "MS Shoes Display Rack Manufacturer in Kanpur | 250 Kg Capacity | India Steel Enterprise",
-      description: "Buy durable MS Shoes Display Rack from Kanpur manufacturer. 6 ft height, 250 kg capacity, powder coated mild steel. Direct factory price ₹4,850. Call 08071793169.",
+      description: "Buy durable MS Shoes Display Rack from Kanpur manufacturer. 6 ft height, 250 kg capacity, powder coated mild steel. Direct factory price ₹4,850. Call +919935099014.",
       focusKeyword: "MS shoes display rack manufacturer Kanpur"
     },
     whatsappMessage: "Hi, I want to inquire about MS Shoes Display Rack"
@@ -129,7 +129,7 @@ export const products: Product[] = [
     relatedProducts: ["vegetable-wall-display-rack"],
     seo: {
       title: "Mild Steel Vegetable Display Rack Kanpur | Supermarket Veggie Rack | India Steel Enterprise",
-      description: "Rust-resistant mild steel vegetable display rack for supermarkets & kirana stores. Powder coated finish. Factory price ₹8,500/piece. Manufacturer Kanpur. Inquiry: 08071793169",
+      description: "Rust-resistant mild steel vegetable display rack for supermarkets & kirana stores. Powder coated finish. Factory price ₹8,500/piece. Manufacturer Kanpur. Inquiry: +919935099014",
       focusKeyword: "vegetable display rack manufacturer Kanpur"
     },
     whatsappMessage: "Hi, I want to inquire about Mild Steel Vegetable Display Rack"
@@ -194,7 +194,7 @@ export const products: Product[] = [
     relatedProducts: ["supermarket-grocery-display-rack"],
     seo: {
       title: "Iron Supermarket Storage Shelving Rack | Heavy Duty Retail Shelf | India Steel Enterprise Kanpur",
-      description: "Heavy duty iron supermarket storage shelving rack from Kanpur manufacturer. Powder coated, built for high-traffic retail stores. Get custom quote. Call 08071793169.",
+      description: "Heavy duty iron supermarket storage shelving rack from Kanpur manufacturer. Powder coated, built for high-traffic retail stores. Get custom quote. Call +919935099014.",
       focusKeyword: "supermarket storage shelving rack manufacturer"
     },
     whatsappMessage: "Hi, I want to inquire about Iron Supermarket Storage Shelving Rack"
@@ -225,7 +225,7 @@ export const products: Product[] = [
     relatedProducts: ["iron-supermarket-storage-shelving-rack", "end-unit-display-rack"],
     seo: {
       title: "Supermarket Grocery Display Rack Manufacturer Kanpur | India Steel Enterprise",
-      description: "Purpose-built supermarket grocery display rack. MS powder coated construction. Best for FMCG, packaged foods, beverages. Direct manufacturer Kanpur. Inquiry: 08071793169.",
+      description: "Purpose-built supermarket grocery display rack. MS powder coated construction. Best for FMCG, packaged foods, beverages. Direct manufacturer Kanpur. Inquiry: +919935099014.",
       focusKeyword: "supermarket grocery display rack"
     },
     whatsappMessage: "Hi, I want to inquire about Supermarket Grocery Display Rack"
@@ -256,7 +256,7 @@ export const products: Product[] = [
     relatedProducts: ["supermarket-grocery-display-rack"],
     seo: {
       title: "End Unit Display Rack Manufacturer | Gondola End Rack Kanpur | India Steel Enterprise",
-      description: "End unit display rack for aisle ends in supermarkets & retail stores. Boost impulse purchases. Mild steel, powder coated. Kanpur manufacturer. Get quote: 08071793169.",
+      description: "End unit display rack for aisle ends in supermarkets & retail stores. Boost impulse purchases. Mild steel, powder coated. Kanpur manufacturer. Get quote: +919935099014.",
       focusKeyword: "end unit display rack"
     },
     whatsappMessage: "Hi, I want to inquire about End Unit Display Rack"
@@ -288,7 +288,7 @@ export const products: Product[] = [
     relatedProducts: ["mild-steel-vegetable-display-rack"],
     seo: {
       title: "Vegetable Wall Display Rack Manufacturer Kanpur | Wall Mounted Veggie Rack",
-      description: "Wall mounted vegetable display rack. Saves floor space, maximizes wall area. Rust-resistant powder coated MS. For supermarkets & kirana stores. Kanpur. Call 08071793169.",
+      description: "Wall mounted vegetable display rack. Saves floor space, maximizes wall area. Rust-resistant powder coated MS. For supermarkets & kirana stores. Kanpur. Call +919935099014.",
       focusKeyword: "vegetable wall display rack"
     },
     whatsappMessage: "Hi, I want to inquire about Vegetable Wall Display Rack"
@@ -320,7 +320,7 @@ export const products: Product[] = [
     relatedProducts: ["wall-side-display-rack"],
     seo: {
       title: "MS Wall Mounted Retail Display Rack Kanpur | India Steel Enterprise",
-      description: "Mild steel wall mounted retail display rack. Space-saving design for shops. Powder coated, durable. Direct from manufacturer in Kanpur. Call for custom sizes: 08071793169.",
+      description: "Mild steel wall mounted retail display rack. Space-saving design for shops. Powder coated, durable. Direct from manufacturer in Kanpur. Call for custom sizes: +919935099014.",
       focusKeyword: "wall mounted retail display rack"
     },
     whatsappMessage: "Hi, I want to inquire about MS Wall Mounted Retail Display Rack"
@@ -352,7 +352,7 @@ export const products: Product[] = [
     relatedProducts: ["25l-pp-supermarket-shopping-basket", "20l-pp-supermarket-shopping-basket"],
     seo: {
       title: "30L PP Supermarket Shopping Basket Supplier Kanpur | India Steel Enterprise",
-      description: "Durable 30-litre PP supermarket shopping basket. Lightweight, strong handles, stackable. Ideal for grocery stores & supermarkets. Supplier Kanpur. Call 08071793169.",
+      description: "Durable 30-litre PP supermarket shopping basket. Lightweight, strong handles, stackable. Ideal for grocery stores & supermarkets. Supplier Kanpur. Call +919935099014.",
       focusKeyword: "30L supermarket shopping basket"
     },
     whatsappMessage: "Hi, I want to inquire about 30L PP Supermarket Shopping Basket"
@@ -384,7 +384,7 @@ export const products: Product[] = [
     relatedProducts: ["ms-slotted-angle-rack"],
     seo: {
       title: "6 Feet Slotted Angle Rack Manufacturer Kanpur | MS Storage Rack | India Steel Enterprise",
-      description: "6-foot slotted angle rack for warehouse, office & retail storage. Mild steel, easy bolt-together assembly. Adjustable shelves. Manufacturer Kanpur. Call 08071793169.",
+      description: "6-foot slotted angle rack for warehouse, office & retail storage. Mild steel, easy bolt-together assembly. Adjustable shelves. Manufacturer Kanpur. Call +919935099014.",
       focusKeyword: "6 feet slotted angle rack Kanpur"
     },
     whatsappMessage: "Hi, I want to inquire about 6 Feet Slotted Angle Rack"
@@ -416,7 +416,7 @@ export const products: Product[] = [
     relatedProducts: ["l-shape-ms-supermarket-cash-counter"],
     seo: {
       title: "L Shape MS Cash Counter Manufacturer Kanpur | Retail Billing Counter | India Steel Enterprise",
-      description: "L-shape mild steel cash counter for shops & retail outlets. Powder coated finish, built for daily heavy use. Direct manufacturer Kanpur. Custom sizes available. Call 08071793169.",
+      description: "L-shape mild steel cash counter for shops & retail outlets. Powder coated finish, built for daily heavy use. Direct manufacturer Kanpur. Custom sizes available. Call +919935099014.",
       focusKeyword: "L shape MS cash counter Kanpur"
     },
     whatsappMessage: "Hi, I want to inquire about L Shape MS Cash Counter"
@@ -448,7 +448,7 @@ export const products: Product[] = [
     relatedProducts: ["l-shape-ms-cash-counter"],
     seo: {
       title: "Medical Store Display Counter Manufacturer Kanpur | Pharmacy Counter | India Steel Enterprise",
-      description: "Specially designed display counter for medical stores & pharmacies. Organized medicine display, clean aesthetic. MS powder coated. Kanpur manufacturer. Call 08071793169.",
+      description: "Specially designed display counter for medical stores & pharmacies. Organized medicine display, clean aesthetic. MS powder coated. Kanpur manufacturer. Call +919935099014.",
       focusKeyword: "medical store display counter manufacturer"
     },
     whatsappMessage: "Hi, I want to inquire about Medical Store Display Counter"
@@ -480,7 +480,7 @@ export const products: Product[] = [
     relatedProducts: ["glossy-plastic-female-mannequin-set"],
     seo: {
       title: "Standing Glossy Plastic Mannequin Set Supplier Kanpur | India Steel Enterprise",
-      description: "Full-body standing glossy plastic mannequin set for garment displays. High-gloss finish, realistic pose. Ideal for clothing stores & boutiques. Supplier Kanpur. Inquiry: 08071793169.",
+      description: "Full-body standing glossy plastic mannequin set for garment displays. High-gloss finish, realistic pose. Ideal for clothing stores & boutiques. Supplier Kanpur. Inquiry: +919935099014.",
       focusKeyword: "standing plastic mannequin set supplier"
     },
     whatsappMessage: "Hi, I want to inquire about Standing Glossy Plastic Mannequin Set"

@@ -1,6 +1,5 @@
 import React from "react";
 import { Metadata } from "next";
-import Image from "next/image";
 import { notFound } from "next/navigation";
 import { MessageCircle, Phone, Truck, Box, CheckCircle2 } from "lucide-react";
 import Breadcrumb from "@/components/ui/Breadcrumb";

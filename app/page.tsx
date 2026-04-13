@@ -7,9 +7,58 @@ import FeaturedProducts from "@/components/sections/FeaturedProducts";
 import ServicesSection from "@/components/sections/ServicesSection";
 import CTABanner from "@/components/ui/CTABanner";
 
+const organizationSchema = {
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "India Steel Enterprise",
+  "alternateName": "ISE Kanpur",
+  "url": "https://www.indiasteelenterprise.com",
+  "logo": "https://www.indiasteelenterprise.com/icon.jpg",
+  "description": "India Steel Enterprise is a leading manufacturer and supplier of display racks, supermarket furniture, slotted angle racks, and industrial storage solutions based in Kanpur, Uttar Pradesh.",
+  "foundingDate": "2014",
+  "founder": {
+    "@type": "Person",
+    "name": "Gaurav Dwivedi"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Kanpur",
+    "addressRegion": "Uttar Pradesh",
+    "addressCountry": "IN"
+  },
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "telephone": "+91-99350-99014",
+      "contactType": "sales",
+      "areaServed": "IN",
+      "availableLanguage": ["Hindi", "English"]
+    },
+    {
+      "@type": "ContactPoint",
+      "telephone": "+91-95656-66055",
+      "contactType": "customer support",
+      "contactOption": "WhatsApp",
+      "areaServed": "IN",
+      "availableLanguage": ["Hindi", "English"]
+    }
+  ],
+  "sameAs": [
+    "https://www.facebook.com/indiasteelenterprise",
+    "https://www.instagram.com/indiasteelenterprise",
+    "https://www.youtube.com/@IndiasteelEnterprise"
+  ]
+};
+
 export default function Home() {
   return (
     <>
+      {/* Organization Schema */}
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(organizationSchema) }}
+      />
+
       <HeroSection />
       <ProductGrid />
       <FeaturedInSection />

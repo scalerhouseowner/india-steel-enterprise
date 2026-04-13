@@ -456,38 +456,7 @@ export const products: Product[] = [
     },
     whatsappMessage: "Hi, I want to inquire about Medical Store Display Counter"
   },
-  {
-    id: "15",
-    slug: "standing-glossy-plastic-mannequin-set",
-    name: "Standing Glossy Plastic Mannequin Set",
-    category: "Display Mannequins",
-    categorySlug: "display-mannequins",
-    image: "/images/Standing-Glossy-Plastic-Mannequin-Set..jpg",
-    price: "On Request",
-    priceUnit: "Set",
-    moq: "1 Set",
-    deliveryDays: "5–7 Days",
-    specs: {
-      "Material": "Glossy Plastic",
-      "Type": "Full Standing Figure",
-      "Finish": "Glossy",
-      "Usage": "Garment / Fashion Display"
-    },
-    shortDescription: "Premium full-standing glossy mannequin set.",
-    description: "Showcase your latest collections with maximum impact using our Standing Glossy Plastic Mannequin Set. Featuring a striking, premium gloss finish, these mannequins complement contemporary fashion stores by adding a modern, upscale flair. The full-standing figure ensures garments drape naturally and attractively, capturing passing shoppers' attention instantly. Sold conveniently as a complete set, you gain multiple high-quality pieces needed to orchestrate an impressive, unified storefront display in boutiques and mall showrooms alike.",
-    useCases: ["Clothing boutiques", "Fashion showrooms", "Garment shops", "Mall stores"],
-    keyFeatures: ["Eye-catching premium gloss finish", "Full standing realistic figure", "Sold as a complete set", "Modern contemporary aesthetic"],
-    faqs: [
-      { q: "Are the arms detachable for easy dressing?", a: "Yes, standard parts are detachable for quick and easy garment changes." }
-    ],
-    relatedProducts: ["glossy-plastic-female-mannequin-set"],
-    seo: {
-      title: "Standing Glossy Plastic Mannequin Set Supplier Kanpur | India Steel Enterprise",
-      description: "Full-body standing glossy plastic mannequin set for garment displays. High-gloss finish, realistic pose. Ideal for clothing stores & boutiques. Supplier Kanpur. Inquiry: +919935099014.",
-      focusKeyword: "standing plastic mannequin set supplier"
-    },
-    whatsappMessage: "Hi, I want to inquire about Standing Glossy Plastic Mannequin Set"
-  },
+
   {
     id: "16",
     slug: "shoes-standing-pillar",
@@ -555,8 +524,8 @@ export const products: Product[] = [
     id: "18",
     slug: "staff-locker",
     name: "Staff Locker",
-    category: "Storage Lockers",
-    categorySlug: "storage-lockers",
+    category: "Locker",
+    categorySlug: "locker",
     image: "/images/Staff locker 1.jpeg",
     images: ["/images/Staff locker 1.jpeg", "/images/Staff locker 2.jpeg"],
     price: "On Request",

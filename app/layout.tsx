@@ -19,6 +19,11 @@ export const metadata: Metadata = {
     default: "India Steel Enterprise | Display Racks Manufacturer Kanpur",
   },
   description: "Manufacturer and supplier of display racks, supermarket display racks, and storage solutions in Kanpur, Uttar Pradesh.",
+  icons: {
+    icon: "/icon.jpg",
+    shortcut: "/icon.jpg",
+    apple: "/icon.jpg",
+  },
 };
 
 export default function RootLayout({

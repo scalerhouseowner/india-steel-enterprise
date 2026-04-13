@@ -6,7 +6,7 @@ export const categories: Category[] = [
     name: "Display Racks",
     slug: "display-racks",
     image: "/images/MS-Shoes-Display-Rack.jpg",
-    productCount: 5,
+    productCount: 3,
   },
   {
     id: "2",

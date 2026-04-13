@@ -1,41 +1,7 @@
 import { Product } from "./types";
 
 export const products: Product[] = [
-  {
-    id: "1",
-    slug: "ms-shoes-display-rack",
-    name: "MS Shoes Display Rack",
-    category: "Display Racks",
-    categorySlug: "display-racks",
-    image: "/images/MS-Shoes-Display-Rack.jpg",
-    price: "₹4,850",
-    priceUnit: "Piece",
-    moq: "1 Piece",
-    deliveryDays: "5–7 Days",
-    specs: {
-      "Material": "Mild Steel (MS)",
-      "Height": "6 Feet",
-      "Capacity": "250 Kg",
-      "Surface Treatment": "Powder Coated",
-      "Feature": "Corrosion Resistant",
-      "Usage": "Supermarket / Shoe Store"
-    },
-    shortDescription: "Heavy-duty 6 ft shoe display rack with 250 kg capacity.",
-    description: "Designed specifically for high-traffic retail environments, our MS Shoes Display Rack provides a heavy-duty solution for showcasing footwear. Standing at 6 feet tall with an impressive 250 kg capacity, it can confidently hold bulk stock directly on the sales floor. Manufactured from premium mild steel and finished with a robust powder coating, this rack offers exceptional rust and corrosion protection. Whether you are outfitting a dedicated shoe store, a large supermarket, or a retail showroom, this durable fixture ensures your products are displayed beautifully and safely. Contact us today for bulk factory pricing or to request custom sizing.",
-    useCases: ["Shoe stores", "Sports shops", "Retail showrooms", "Supermarket footwear sections"],
-    keyFeatures: ["250 Kg load capacity", "Corrosion resistant finish", "Heavy-duty mild steel", "Direct from Kanpur factory"],
-    faqs: [
-      { q: "Can the height be adjusted?", a: "We offer custom sizing built to your specifications." },
-      { q: "Is the rack rust-proof?", a: "Yes, it is powder coated to protect against rust and corrosion." },
-    ],
-    relatedProducts: ["retail-showroom-shop-display-rack", "mild-steel-vegetable-display-rack"],
-    seo: {
-      title: "MS Shoes Display Rack Manufacturer in Kanpur | 250 Kg Capacity | India Steel Enterprise",
-      description: "Buy durable MS Shoes Display Rack from Kanpur manufacturer. 6 ft height, 250 kg capacity, powder coated mild steel. Direct factory price ₹4,850. Call +919935099014.",
-      focusKeyword: "MS shoes display rack manufacturer Kanpur"
-    },
-    whatsappMessage: "Hi, I want to inquire about MS Shoes Display Rack"
-  },
+
   {
     id: "2",
     slug: "retail-showroom-shop-display-rack",
@@ -69,39 +35,7 @@ export const products: Product[] = [
     },
     whatsappMessage: "Hi, I want to inquire about Retail Showroom Shop Display Rack"
   },
-  {
-    id: "3",
-    slug: "garment-display-wooden-rack",
-    name: "Garment Display Wooden Rack",
-    category: "Display Racks",
-    categorySlug: "display-racks",
-    image: "/images/Garment-Display-Wooden-Rack..jpg",
-    price: "₹7,950",
-    priceUnit: "Square Foot",
-    moq: "10 Square Feet",
-    deliveryDays: "5–7 Days",
-    specs: {
-      "Material": "Wood",
-      "Surface Treatment": "Powder Coated",
-      "Feature": "Corrosion Resistance",
-      "Usage": "Supermarket / Garment Store",
-      "Pricing Unit": "Per Square Foot"
-    },
-    shortDescription: "Premium wooden aesthetic rack for upscale boutiques.",
-    description: "Elevate your store's interior with our Garment Display Wooden Rack, offering a premium wooden aesthetic that perfectly suits upscale boutiques and exclusive fashion showrooms. This elegant piece provides a sophisticated alternative to pure steel fixtures while retaining exceptional durability thanks to its protected, powder-coated framework. Designed with flexibility in mind, our per-square-foot pricing model ensures you can customize the dimensions to perfectly fit your unique shop layout. Handcrafted with care at our Kanpur facility, we deliver both style and strength. Note: custom dimensions are available with a minimum order of 10 sq.ft.",
-    useCases: ["Clothing boutiques", "Garment shops", "Fashion showrooms"],
-    keyFeatures: ["Premium wooden aesthetic", "Per sq.ft pricing model", "Customizable dimensions", "Powder-coated frame integration"],
-    faqs: [
-      { q: "What is the minimum order for custom sizes?", a: "The minimum order quantity is 10 square feet." }
-    ],
-    relatedProducts: ["garment-display-rack"],
-    seo: {
-      title: "Garment Display Wooden Rack Manufacturer Kanpur | ₹2,950/sq.ft | India Steel Enterprise",
-      description: "Custom garment display wooden rack at ₹2,950 per sq.ft. Minimum 10 sq.ft order. Powder coated finish, ideal for clothing stores & boutiques. Manufacturer in Kanpur, UP.",
-      focusKeyword: "garment display wooden rack manufacturer"
-    },
-    whatsappMessage: "Hi, I want to inquire about Garment Display Wooden Rack"
-  },
+
   {
     id: "4",
     slug: "mild-steel-vegetable-display-rack",
@@ -239,7 +173,7 @@ export const products: Product[] = [
     image: "/images/End-Unit-Display-Rack..jpg",
     price: "On Request",
     priceUnit: "Piece",
-    moq: "1 Piece",
+    moq: "5 Piece",
     deliveryDays: "5–7 Days",
     specs: {
       "Material": "Mild Steel",
@@ -304,7 +238,7 @@ export const products: Product[] = [
     images: ["/images/Wall mounting rack.jpeg", "/images/Wall mounting rack 2.jpeg", "/images/Wall mounting rack3.jpeg", "/images/Wall mounting rack4.jpeg"],
     price: "On Request",
     priceUnit: "Piece",
-    moq: "1 Piece",
+    moq: "10 Piece",
     deliveryDays: "5–7 Days",
     specs: {
       "Material": "Mild Steel",

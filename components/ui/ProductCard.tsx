@@ -34,8 +34,8 @@ const ProductCard: React.FC<ProductCardProps> = ({ product }) => {
         </Link>
         
         <div className="mb-3">
-          <span className={product.price === "On Request" ? "text-body-muted font-medium" : "text-accent font-bold text-lg"}>
-            {product.price}
+          <span className="inline-flex items-center gap-1 bg-primary/8 text-primary text-xs font-semibold px-2.5 py-1 rounded-full border border-primary/20">
+            💬 Price on Request
           </span>
         </div>
         

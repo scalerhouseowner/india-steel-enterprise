@@ -9,7 +9,7 @@ export const products: Product[] = [
     category: "Display Racks",
     categorySlug: "display-racks",
     image: "/images/Retail-Showroom-Shop-Display-Rack..jpg",
-    price: "₹5,500",
+    price: "On Request",
     priceUnit: "Piece",
     moq: "1 Piece",
     deliveryDays: "5–7 Days",
@@ -30,7 +30,7 @@ export const products: Product[] = [
     relatedProducts: ["ms-shoes-display-rack", "garment-display-rack"],
     seo: {
       title: "Retail Showroom Shop Display Rack 7ft | Single Sided MS Rack | India Steel Enterprise Kanpur",
-      description: "7-foot single sided retail showroom display rack made from powder coated mild steel. Ideal for shops & supermarkets. Factory price ₹5,500. Manufacturer in Kanpur. Call now.",
+      description: "7-foot single sided retail showroom display rack made from powder coated mild steel. Ideal for shops & supermarkets. Manufacturer in Kanpur. Call now for pricing.",
       focusKeyword: "retail showroom display rack Kanpur"
     },
     whatsappMessage: "Hi, I want to inquire about Retail Showroom Shop Display Rack"
@@ -43,7 +43,7 @@ export const products: Product[] = [
     category: "Display Racks",
     categorySlug: "display-racks",
     image: "/images/Mild-Steel-Vegetable-Display-Rack..jpg",
-    price: "₹8,500",
+    price: "On Request",
     priceUnit: "Piece",
     moq: "1 Piece",
     deliveryDays: "5–7 Days",
@@ -63,7 +63,7 @@ export const products: Product[] = [
     relatedProducts: ["vegetable-wall-display-rack"],
     seo: {
       title: "Mild Steel Vegetable Display Rack Kanpur | Supermarket Veggie Rack | India Steel Enterprise",
-      description: "Rust-resistant mild steel vegetable display rack for supermarkets & kirana stores. Powder coated finish. Factory price ₹8,500/piece. Manufacturer Kanpur. Inquiry: +919935099014",
+      description: "Rust-resistant mild steel vegetable display rack for supermarkets & kirana stores. Powder coated finish. Direct manufacturer Kanpur. Inquiry: +919935099014",
       focusKeyword: "vegetable display rack manufacturer Kanpur"
     },
     whatsappMessage: "Hi, I want to inquire about Mild Steel Vegetable Display Rack"
@@ -75,8 +75,8 @@ export const products: Product[] = [
     category: "Display Racks",
     categorySlug: "display-racks",
     image: "/images/Garment-Display-Rack..jpg",
-    price: "₹5,950",
-    priceUnit: "Square Foot",
+    price: "On Request",
+    priceUnit: "Piece",
     moq: "10 Square Feet",
     deliveryDays: "5–7 Days",
     specs: {
@@ -91,12 +91,12 @@ export const products: Product[] = [
     useCases: ["Ready-made garment shops", "Supermarket clothing sections", "Wholesale garment stores"],
     keyFeatures: ["High-durability mild steel", "Perfect for heavy apparel loads", "Fully customizable sizing", "Scratch-resistant finish"],
     faqs: [
-      { q: "Is the sizing flexible?", a: "Yes, we price per square foot allowing total customization." }
+      { q: "Is the sizing flexible?", a: "Yes, we offer fully customizable sizing. Contact us for a quote." }
     ],
     relatedProducts: ["garment-display-wooden-rack"],
     seo: {
       title: "Garment Display Rack Manufacturer Kanpur | MS Powder Coated | India Steel Enterprise",
-      description: "Steel garment display rack at ₹2,950/sq.ft. Powder coated MS construction. Ideal for clothing stores & supermarket apparel sections. Min 10 sq.ft. Direct manufacturer Kanpur.",
+      description: "Steel garment display rack. Powder coated MS construction. Ideal for clothing stores & supermarket apparel sections. Direct manufacturer Kanpur. Contact for pricing.",
       focusKeyword: "garment display rack manufacturer Kanpur"
     },
     whatsappMessage: "Hi, I want to inquire about Garment Display Rack"
@@ -523,8 +523,8 @@ export const products: Product[] = [
     category: "Garments Display Racks",
     categorySlug: "garments-display-racks",
     image: "/images/Garment Display Rack.jpeg",
-    price: "",
-    priceUnit: "Running Feet",
+    price: "On Request",
+    priceUnit: "Piece",
     moq: "10 Running Feet",
     deliveryDays: "5–7 Days",
     specs: {

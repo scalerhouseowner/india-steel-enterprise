@@ -63,12 +63,12 @@ export default function ProductDetailPage({ params }: { params: { slug: string }
               <p className="text-body-muted text-base mb-6">{product.shortDescription}</p>
               
               <div className="border-t border-b border-border py-4 mb-6">
-                {product.price && (
-                  <div className="text-2xl font-bold text-accent mb-3">
-                    {product.price}
-                    {product.price !== "On Request" && <span className="text-sm text-body-muted font-normal"> / {product.priceUnit}</span>}
-                  </div>
-                )}
+                <div className="flex flex-col gap-1 mb-3">
+                <span className="inline-flex items-center gap-2 bg-primary/8 text-primary font-semibold text-base px-4 py-2 rounded-full border border-primary/20 w-fit">
+                  💬 Price on Request
+                </span>
+                <p className="text-xs text-body-muted pl-1">Contact us for the best factory-direct price</p>
+              </div>
                 
                 <div className="flex flex-col gap-2">
                   <div className="flex items-center gap-3 text-body-dark text-sm font-medium">
@@ -189,8 +189,11 @@ export default function ProductDetailPage({ params }: { params: { slug: string }
             "offers": {
               "@type": "Offer",
               "priceCurrency": "INR",
-              "price": product.price.replace(/[^0-9]/g, '') || "0",
               "availability": "https://schema.org/InStock",
+              "priceSpecification": {
+                "@type": "UnitPriceSpecification",
+                "description": "Price on Request"
+              },
               "seller": {
                 "@type": "Organization",
                 "name": "India Steel Enterprise"

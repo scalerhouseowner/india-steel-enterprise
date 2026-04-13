@@ -37,18 +37,11 @@ export const categories: Category[] = [
     productCount: 2,
   },
   {
-    id: "6",
-    name: "Cash Counters",
-    slug: "cash-counters",
-    image: "/images/L-Shape-MS-Cash-Counter..jpg",
-    productCount: 2,
-  },
-  {
     id: "7",
     name: "Display Counter",
     slug: "display-counter",
     image: "/images/Medical-Store-Display-Counter..jpg",
-    productCount: 1,
+    productCount: 2,
   },
   {
     id: "9",

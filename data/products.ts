@@ -330,7 +330,7 @@ export const products: Product[] = [
   {
     id: "11",
     slug: "30l-pp-supermarket-shopping-basket",
-    name: "30L PP Supermarket Shopping Basket",
+    name: "Supermarket Shopping Basket",
     category: "Shopping Baskets",
     categorySlug: "shopping-baskets",
     image: "/images/30L-PP-Supermarket-Shopping-Basket..jpg",
@@ -353,11 +353,11 @@ export const products: Product[] = [
     ],
     relatedProducts: ["25l-pp-supermarket-shopping-basket", "20l-pp-supermarket-shopping-basket"],
     seo: {
-      title: "30L PP Supermarket Shopping Basket Supplier Kanpur | India Steel Enterprise",
+      title: "Supermarket Shopping Basket Supplier Kanpur | India Steel Enterprise",
       description: "Durable 30-litre PP supermarket shopping basket. Lightweight, strong handles, stackable. Ideal for grocery stores & supermarkets. Supplier Kanpur. Call +919935099014.",
       focusKeyword: "30L supermarket shopping basket"
     },
-    whatsappMessage: "Hi, I want to inquire about 30L PP Supermarket Shopping Basket"
+    whatsappMessage: "Hi, I want to inquire about Supermarket Shopping Basket"
   },
   {
     id: "12",
@@ -373,7 +373,7 @@ export const products: Product[] = [
     deliveryDays: "5–7 Days",
     specs: {
       "Material": "Mild Steel",
-      "Height": "6 Feet",
+      "Height": "Based on requirement",
       "Type": "Slotted Angle Rack",
       "Surface Treatment": "Powder Coated"
     },
@@ -551,5 +551,35 @@ export const products: Product[] = [
       focusKeyword: "staff locker manufacturer"
     },
     whatsappMessage: "Hi, I want to inquire about Staff Locker"
+  },
+  {
+    id: "19",
+    slug: "ss-supermarket-trolley",
+    name: "SS Supermarket Trolley",
+    category: "Shopping basket and traulley",
+    categorySlug: "shopping-baskets",
+    image: "/images/Stainless-Steel-Shopping-Trolley..jpg",
+    price: "On Request",
+    priceUnit: "Piece",
+    moq: "1 Piece",
+    deliveryDays: "5–7 Days",
+    specs: {
+      "Material": "Stainless Steel (SS)",
+      "Usage": "Supermarket / Hypermarket"
+    },
+    shortDescription: "Premium stainless steel supermarket shopping trolley.",
+    description: "Provide your customers with a smooth shopping experience using our SS Supermarket Trolley. Constructed from high-grade stainless steel to ensure rust resistance and long-lasting durability despite heavy daily warehouse and retail use.",
+    useCases: ["Supermarkets", "Hypermarkets", "Wholesale markets"],
+    keyFeatures: ["Stainless steel construction", "Rust-resistant finish", "Smooth rolling wheels"],
+    faqs: [
+      { q: "Is the trolley completely rust proof?", a: "Yes, it is constructed from premium stainless steel providing excellent resistance to rust and corrosion." }
+    ],
+    relatedProducts: ["30l-pp-supermarket-shopping-basket"],
+    seo: {
+      title: "SS Supermarket Trolley Manufacturer Kanpur | India Steel Enterprise",
+      description: "Buy durable stainless steel supermarket shopping trolley. Rust-resistant, smooth rolling. Manufacturer in Kanpur.",
+      focusKeyword: "SS supermarket trolley Kanpur"
+    },
+    whatsappMessage: "Hi, I want to inquire about SS Supermarket Trolley"
   }
 ];

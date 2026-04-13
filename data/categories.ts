@@ -24,10 +24,10 @@ export const categories: Category[] = [
   },
   {
     id: "4",
-    name: "Shopping Baskets",
+    name: "Shopping basket and traulley",
     slug: "shopping-baskets",
     image: "/images/30L-PP-Supermarket-Shopping-Basket..jpg",
-    productCount: 3,
+    productCount: 4,
   },
   {
     id: "5",

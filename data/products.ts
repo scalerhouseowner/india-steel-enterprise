@@ -213,7 +213,7 @@ export const products: Product[] = [
       "Mount Type": "wall display",
       "Usage": "All display products"
     },
-    shortDescription: "SPace - saving wall display rack",
+    shortDescription: "Space-saving wall display rack",
     description: "Maximize your floor space intelligently with our Vegetable Wall Display Rack. By utilizing vertical wall space, this unit allows tight kirana stores and bustling supermarkets to showcase vibrant fresh produce cleanly and efficiently. Engineered from rust-resistant, powder-coated mild steel, it endures the natural moisture of vegetables without degrading. Keep your greens organized, accessible, and appealing to customers with a solution built directly by Kanpur's trusted manufacturing experts.",
     useCases: ["Compact supermarkets", "Kirana stores", "Wall produce sections", "Greengrocers"],
     keyFeatures: ["Frees up floor space", "Moisture resistant MS frame", "High visibility wall display", "Easy customer accessibility"],

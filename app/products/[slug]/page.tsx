@@ -6,6 +6,7 @@ import { MessageCircle, Phone, Truck, Box, CheckCircle2 } from "lucide-react";
 import Breadcrumb from "@/components/ui/Breadcrumb";
 import SpecTable from "@/components/ui/SpecTable";
 import ProductCard from "@/components/ui/ProductCard";
+import ProductImageCarousel from "@/components/ui/ProductImageCarousel";
 import { products } from "@/data/products";
 
 export async function generateMetadata({ params }: { params: { slug: string } }): Promise<Metadata> {
@@ -49,15 +50,11 @@ export default function ProductDetailPage({ params }: { params: { slug: string }
             
             {/* Left Col: Image */}
             <div className="lg:w-[55%]">
-              <div className="relative aspect-square w-full rounded-lg overflow-hidden bg-surface border border-border group">
-                <Image 
-                  src={product.image} 
-                  alt={product.name}
-                  fill
-                  priority
-                  className="object-contain group-hover:scale-105 transition-transform duration-500"
-                />
-              </div>
+              <ProductImageCarousel 
+                primaryImage={product.image}
+                images={product.images}
+                alt={product.name}
+              />
             </div>
 
             {/* Right Col: Details & CTAs */}

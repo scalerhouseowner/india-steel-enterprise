@@ -5,6 +5,7 @@ export interface Product {
   category: string;
   categorySlug: string;
   image: string;
+  images?: string[];
   price: string;
   priceUnit: string;
   moq: string;

@@ -76,7 +76,7 @@ export const products: Product[] = [
     category: "Display Racks",
     categorySlug: "display-racks",
     image: "/images/Garment-Display-Wooden-Rack..jpg",
-    price: "₹2,950",
+    price: "₹7,950",
     priceUnit: "Square Foot",
     moq: "10 Square Feet",
     deliveryDays: "5–7 Days",
@@ -141,7 +141,7 @@ export const products: Product[] = [
     category: "Display Racks",
     categorySlug: "display-racks",
     image: "/images/Garment-Display-Rack..jpg",
-    price: "₹2,950",
+    price: "₹5,950",
     priceUnit: "Square Foot",
     moq: "10 Square Feet",
     deliveryDays: "5–7 Days",
@@ -267,7 +267,8 @@ export const products: Product[] = [
     name: "Vegetable Wall Display Rack",
     category: "Wall Display Racks",
     categorySlug: "wall-display-racks",
-    image: "/images/Vegetable-Wall-Display-Rack..jpg",
+    image: "/images/Wall display racks.jpeg",
+    images: ["/images/Wall display racks.jpeg", "/images/Wall display racks 2.jpeg"],
     price: "On Request",
     priceUnit: "Piece",
     moq: "1 Piece",
@@ -299,7 +300,8 @@ export const products: Product[] = [
     name: "MS Wall Mounted Retail Display Rack",
     category: "Wall Display Racks",
     categorySlug: "wall-display-racks",
-    image: "/images/MS-Wall-Mounted-Retail-Display-Rack..jpg",
+    image: "/images/Wall mounting rack.jpeg",
+    images: ["/images/Wall mounting rack.jpeg", "/images/Wall mounting rack 2.jpeg", "/images/Wall mounting rack3.jpeg", "/images/Wall mounting rack4.jpeg"],
     price: "On Request",
     priceUnit: "Piece",
     moq: "1 Piece",
@@ -363,7 +365,8 @@ export const products: Product[] = [
     name: "6 Feet Slotted Angle Rack",
     category: "Slotted Angle Racks",
     categorySlug: "slotted-angle-racks",
-    image: "/images/6-Feet-Slotted-Angle-Rack..jpg",
+    image: "/images/slotted-angle-rack1.jpeg",
+    images: ["/images/slotted-angle-rack1.jpeg", "/images/slotted-angle-rack2.jpeg", "/images/slotted-angle-rack3.jpeg", "/images/slotted-angle-rack4.jpeg"],
     price: "On Request",
     priceUnit: "Piece",
     moq: "1 Piece",
@@ -484,5 +487,100 @@ export const products: Product[] = [
       focusKeyword: "standing plastic mannequin set supplier"
     },
     whatsappMessage: "Hi, I want to inquire about Standing Glossy Plastic Mannequin Set"
+  },
+  {
+    id: "16",
+    slug: "shoes-standing-pillar",
+    name: "Shoes Standing Pillar",
+    category: "Display Racks",
+    categorySlug: "display-racks",
+    image: "/images/Shoes standing pillar.jpeg",
+    images: ["/images/Shoes standing pillar.jpeg", "/images/Shoes standing pillar 2.jpeg", "/images/Shoes standing pillar 3.jpeg"],
+    price: "On Request",
+    priceUnit: "Piece",
+    moq: "1 Piece",
+    deliveryDays: "5–7 Days",
+    specs: {
+      "Material": "Mild Steel (MS)",
+      "Surface Treatment": "Powder Coated",
+      "Usage": "Shoe Store / Retail"
+    },
+    shortDescription: "Elegant space-saving shoe display pillar.",
+    description: "Designed for compact setups to maximize floor space, our Shoes Standing Pillar gives an elegant touch to any footwear retail showroom. Built robustly from powder-coated mild steel, it ensures stability and durability even under heavy use.",
+    useCases: ["Shoe stores", "Sports shops", "Retail showrooms"],
+    keyFeatures: ["Compact design", "High visibility", "Powder coated for rust resistance"],
+    faqs: [
+      { q: "Can it be customized?", a: "Yes, we offer customization on dimensions and colors." }
+    ],
+    relatedProducts: ["ms-shoes-display-rack"],
+    seo: {
+      title: "Shoes Standing Pillar Manufacturer Kanpur | India Steel Enterprise",
+      description: "Space-saving Shoes Standing Pillar for retail showrooms. Mild steel construction. Call now.",
+      focusKeyword: "shoes standing pillar"
+    },
+    whatsappMessage: "Hi, I want to inquire about Shoes Standing Pillar"
+  },
+  {
+    id: "17",
+    slug: "lahnga-sadi-rack",
+    name: "Lahnga Sadi Rack",
+    category: "Display Racks",
+    categorySlug: "display-racks",
+    image: "/images/Lahnga sadi rack.jpeg",
+    images: ["/images/Lahnga sadi rack.jpeg", "/images/Lahnga sadi rack2.jpeg", "/images/Lahnga sadi rack3.jpeg", "/images/Lahnga sadi rack4.jpeg"],
+    price: "On Request",
+    priceUnit: "Piece",
+    moq: "1 Piece",
+    deliveryDays: "5–7 Days",
+    specs: {
+      "Material": "Wood & MS",
+      "Usage": "Boutiques / Saree Showrooms"
+    },
+    shortDescription: "Premium display rack for Lahngas and Sarees.",
+    description: "Display your heavy, ethnic Lahngas and Sarees safely and elegantly with our specialized Lahnga Sadi Rack. Providing strong support and a premium aesthetic, it complements traditional wear showrooms perfectly.",
+    useCases: ["Saree shops", "Ethnic wear boutiques", "Showrooms"],
+    keyFeatures: ["Heavy load bearing", "Premium aesthetic", "Durable finish"],
+    faqs: [
+      { q: "Is it suited for heavy wedding wear?", a: "Yes, it is designed specifically for heavy apparel like Lahngas." }
+    ],
+    relatedProducts: ["garment-display-wooden-rack"],
+    seo: {
+      title: "Lahnga Sadi Rack Manufacturer Kanpur | India Steel Enterprise",
+      description: "Premium Lahnga and Saree Display Rack. Ideal for ethnic wear boutiques.",
+      focusKeyword: "lahnga sadi rack"
+    },
+    whatsappMessage: "Hi, I want to inquire about Lahnga Sadi Rack"
+  },
+  {
+    id: "18",
+    slug: "staff-locker",
+    name: "Staff Locker",
+    category: "Storage Lockers",
+    categorySlug: "storage-lockers",
+    image: "/images/Staff locker 1.jpeg",
+    images: ["/images/Staff locker 1.jpeg", "/images/Staff locker 2.jpeg"],
+    price: "On Request",
+    priceUnit: "Piece",
+    moq: "1 Piece",
+    deliveryDays: "5–7 Days",
+    specs: {
+      "Material": "Mild Steel",
+      "Surface Treatment": "Powder Coated",
+      "Usage": "Office / Factory / Gym"
+    },
+    shortDescription: "Secure multi-door staff locker unit.",
+    description: "Ensure the safe storage of your employees' personal belongings with our heavy-duty Staff Locker. Made of high-grade mild steel, it features individually lockable compartments, providing secure and organized storage for offices, factories, hospitals, and gyms.",
+    useCases: ["Offices", "Factories", "Gyms", "Hospitals"],
+    keyFeatures: ["Individually lockable compartments", "Robust MS build", "Ventilation slats"],
+    faqs: [
+      { q: "Can we get custom compartment sizes?", a: "Yes, compartment dimensions and door counts can be customized." }
+    ],
+    relatedProducts: ["iron-supermarket-storage-shelving-rack"],
+    seo: {
+      title: "Staff Locker Manufacturer Kanpur | India Steel Enterprise",
+      description: "Secure and durable MS staff lockers for offices, factories, and gyms.",
+      focusKeyword: "staff locker manufacturer"
+    },
+    whatsappMessage: "Hi, I want to inquire about Staff Locker"
   }
 ];

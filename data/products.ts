@@ -264,22 +264,22 @@ export const products: Product[] = [
   {
     id: "9",
     slug: "vegetable-wall-display-rack",
-    name: "Vegetable Wall Display Rack",
+    name: "Wall display rack",
     category: "Wall Display Racks",
     categorySlug: "wall-display-racks",
     image: "/images/Wall display racks.jpeg",
     images: ["/images/Wall display racks.jpeg", "/images/Wall display racks 2.jpeg"],
     price: "On Request",
     priceUnit: "Piece",
-    moq: "1 Piece",
+    moq: "10 piece",
     deliveryDays: "5–7 Days",
     specs: {
       "Material": "Mild Steel",
       "Surface Treatment": "Powder Coated",
-      "Mount Type": "Wall Mounted",
-      "Usage": "Vegetable / Fresh Produce Display"
+      "Mount Type": "wall display",
+      "Usage": "All display products"
     },
-    shortDescription: "Space-saving wall mounted vegetable rack.",
+    shortDescription: "SPace - saving wall display rack",
     description: "Maximize your floor space intelligently with our Vegetable Wall Display Rack. By utilizing vertical wall space, this unit allows tight kirana stores and bustling supermarkets to showcase vibrant fresh produce cleanly and efficiently. Engineered from rust-resistant, powder-coated mild steel, it endures the natural moisture of vegetables without degrading. Keep your greens organized, accessible, and appealing to customers with a solution built directly by Kanpur's trusted manufacturing experts.",
     useCases: ["Compact supermarkets", "Kirana stores", "Wall produce sections", "Greengrocers"],
     keyFeatures: ["Frees up floor space", "Moisture resistant MS frame", "High visibility wall display", "Easy customer accessibility"],

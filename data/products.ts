@@ -74,7 +74,7 @@ export const products: Product[] = [
     name: "Garment Display Rack",
     category: "Display Racks",
     categorySlug: "display-racks",
-    image: "/images/Garment-Display-Rack..jpg",
+    image: "/images/Garment-Display-Wooden-Rack..jpg",
     price: "On Request",
     priceUnit: "Piece",
     moq: "10 Square Feet",

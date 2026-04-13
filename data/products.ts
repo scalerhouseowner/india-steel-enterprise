@@ -523,9 +523,9 @@ export const products: Product[] = [
     category: "Garments Display Racks",
     categorySlug: "garments-display-racks",
     image: "/images/Garment Display Rack.jpeg",
-    price: "On Request",
-    priceUnit: "Piece",
-    moq: "1 Piece",
+    price: "",
+    priceUnit: "Running Feet",
+    moq: "10 Running Feet",
     deliveryDays: "5–7 Days",
     specs: {
       "Material": "Mild Steel",

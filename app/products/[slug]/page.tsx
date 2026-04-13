@@ -63,10 +63,12 @@ export default function ProductDetailPage({ params }: { params: { slug: string }
               <p className="text-body-muted text-base mb-6">{product.shortDescription}</p>
               
               <div className="border-t border-b border-border py-4 mb-6">
-                <div className="text-2xl font-bold text-accent mb-3">
-                  {product.price}
-                  {product.price !== "On Request" && <span className="text-sm text-body-muted font-normal"> / {product.priceUnit}</span>}
-                </div>
+                {product.price && (
+                  <div className="text-2xl font-bold text-accent mb-3">
+                    {product.price}
+                    {product.price !== "On Request" && <span className="text-sm text-body-muted font-normal"> / {product.priceUnit}</span>}
+                  </div>
+                )}
                 
                 <div className="flex flex-col gap-2">
                   <div className="flex items-center gap-3 text-body-dark text-sm font-medium">

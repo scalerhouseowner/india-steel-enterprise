@@ -24,7 +24,7 @@ export const categories: Category[] = [
   },
   {
     id: "4",
-    name: "Shopping basket and traulley",
+    name: "Shopping basket and trolley",
     slug: "shopping-baskets",
     image: "/images/30L-PP-Supermarket-Shopping-Basket..jpg",
     productCount: 4,

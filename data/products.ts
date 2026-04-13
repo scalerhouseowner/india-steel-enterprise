@@ -556,7 +556,7 @@ export const products: Product[] = [
     id: "19",
     slug: "ss-supermarket-trolley",
     name: "SS Supermarket Trolley",
-    category: "Shopping basket and traulley",
+    category: "Shopping basket and trolley",
     categorySlug: "shopping-baskets",
     image: "/images/Stainless-Steel-Shopping-Trolley..jpg",
     price: "On Request",

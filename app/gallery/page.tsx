@@ -34,6 +34,13 @@ export default function GalleryPage() {
         <div className="w-full max-w-[1920px] mx-auto px-6 sm:px-12 lg:px-24">
           
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4">
+            {
+              ["/images/Wall display racks 3.mp4", "/images/Wall display racks 4.mp4"].map((vid, idx) => (
+                <div key={`vid-${idx}`} className="relative aspect-square rounded-md overflow-hidden bg-black shadow-sm border border-border">
+                  <video src={vid} controls className="w-full h-full object-cover" />
+                </div>
+              ))
+            }
             {galleryImages.map((img) => (
               <div key={img.id} className="relative aspect-square rounded-md overflow-hidden bg-white shadow-sm hover:shadow-md transition-shadow group border border-border">
                 <Image 

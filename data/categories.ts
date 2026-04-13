@@ -57,4 +57,11 @@ export const categories: Category[] = [
     image: "/images/Staff locker 1.jpeg",
     productCount: 1,
   },
+  {
+    id: "11",
+    name: "Garments Display Racks",
+    slug: "garments-display-racks",
+    image: "/images/Garment Display Rack.jpeg",
+    productCount: 1,
+  }
 ];

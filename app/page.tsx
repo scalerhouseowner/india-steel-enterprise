@@ -4,6 +4,7 @@ import ProductGrid from "@/components/sections/ProductGrid";
 import FeaturedInSection from "@/components/sections/FeaturedInSection";
 import WhyUsSection from "@/components/sections/WhyUsSection";
 import FeaturedProducts from "@/components/sections/FeaturedProducts";
+import ServicesSection from "@/components/sections/ServicesSection";
 import CTABanner from "@/components/ui/CTABanner";
 
 export default function Home() {
@@ -14,6 +15,7 @@ export default function Home() {
       <FeaturedInSection />
       <WhyUsSection />
       <FeaturedProducts />
+      <ServicesSection />
       
       {/* About Strip Section */}
       <section className="bg-primary text-white py-20">

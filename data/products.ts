@@ -515,5 +515,36 @@ export const products: Product[] = [
       focusKeyword: "SS supermarket trolley Kanpur"
     },
     whatsappMessage: "Hi, I want to inquire about SS Supermarket Trolley"
+  },
+  {
+    id: "20",
+    slug: "garment-display-rack",
+    name: "Garment Display Rack",
+    category: "Garments Display Racks",
+    categorySlug: "garments-display-racks",
+    image: "/images/Garment Display Rack.jpeg",
+    price: "On Request",
+    priceUnit: "Piece",
+    moq: "1 Piece",
+    deliveryDays: "5–7 Days",
+    specs: {
+      "Material": "Mild Steel",
+      "Surface Treatment": "Powder Coated",
+      "Usage": "Garments Showroom"
+    },
+    shortDescription: "Premium steel garment display rack.",
+    description: "Upgrade your retail store with our premium Garment Display Rack. Engineered for strength and visual appeal, it effectively highlights your merchandise, drawing in customers and boosting sales. Manufactured directly in Kanpur with a robust powder-coated finish for reliable daily use.",
+    useCases: ["Garment readymade shops", "Clothing boutiques", "Fashion showrooms"],
+    keyFeatures: ["Sturdy MS frame", "Elegant finish", "High visibility"],
+    faqs: [
+      { q: "Is customization available?", a: "Yes, we customize dimensions and colors as per client specification." }
+    ],
+    relatedProducts: [],
+    seo: {
+      title: "Garment Display Rack Manufacturer Kanpur | India Steel Enterprise",
+      description: "Buy premium Garment Display Rack. Ideal for clothing stores and boutiques. Direct from manufacturer Kanpur. Call +919935099014",
+      focusKeyword: "Garment display rack Kanpur"
+    },
+    whatsappMessage: "Hi, I want to inquire about Garment Display Rack"
   }
 ];

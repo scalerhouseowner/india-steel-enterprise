@@ -49,7 +49,7 @@ export default function ServicesSection() {
             </div>
             <h3 className="font-heading font-bold text-2xl text-primary mb-4">Bespoke Design</h3>
             <p className="text-gray-600 text-base leading-relaxed">
-              Tailor-made designs that optimize your specific floor plan dimensions and match your brand's unique aesthetic perfectly.
+              Tailor-made designs that optimize your specific floor plan dimensions and match your brand&apos;s unique aesthetic perfectly.
             </p>
           </div>
 

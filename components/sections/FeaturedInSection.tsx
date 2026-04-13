@@ -28,6 +28,7 @@ const FeaturedInSection = () => {
               key={`logo-1-${index}`}
               className="mx-6 sm:mx-10 md:mx-14 flex items-center justify-center grayscale hover:grayscale-0 transition-all duration-300 transform hover:scale-110 w-[120px] h-[60px] sm:w-[140px] sm:h-[70px] md:w-[160px] md:h-[80px]"
             >
+              {/* eslint-disable-next-line @next/next/no-img-element */}
               <img
                 src={logo.src}
                 alt={logo.name}
@@ -43,6 +44,7 @@ const FeaturedInSection = () => {
               key={`logo-2-${index}`}
               className="mx-6 sm:mx-10 md:mx-14 flex items-center justify-center grayscale hover:grayscale-0 transition-all duration-300 transform hover:scale-110 w-[120px] h-[60px] sm:w-[140px] sm:h-[70px] md:w-[160px] md:h-[80px]"
             >
+              {/* eslint-disable-next-line @next/next/no-img-element */}
               <img
                 src={logo.src}
                 alt={logo.name}
